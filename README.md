@@ -64,9 +64,6 @@ Saya menggunakan IBM Granite dalam proyek ini karena kemampuannya yang unggul di
 ## Kesimpulan & Rekomendasi Strategis
 
 ### Kesimpulan
-Proyek ini berhasil membuktikan bahwa dengan memanfaatkan kekuatan AI canggih seperti IBM Granite, saya dapat mengubah data kualitatif yang masif dan "berisik" menjadi insight strategis yang jernih. Analisis saya menunjukkan bahwa ketidakpuasan karyawan tidak disebabkan oleh satu faktor tunggal, melainkan oleh interaksi kompleks antara kompensasi yang tidak memadai, peluang karir yang terbatas, dan kualitas manajemen yang perlu ditingkatkan.
-
-### Rekomendasi Strategis (Actionable)
 
 
 ---
